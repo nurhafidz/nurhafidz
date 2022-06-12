@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Nurhafidz&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nurhafidz&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nurhafidz&theme=onedark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhafidz&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
