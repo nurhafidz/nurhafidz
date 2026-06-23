@@ -43,18 +43,6 @@ Building reliable systems for the web, mobile, and everything in between.
 
 ---
 
-### 🐍 My contributions
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Nurhafidz/Nurhafidz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 *"Ship it, then improve it."*
 
 </div>
