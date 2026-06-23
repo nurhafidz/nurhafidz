@@ -43,34 +43,11 @@ Building reliable systems for the web, mobile, and everything in between.
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 My contributions
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Nurhafidz&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nurhafidz&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurhafidz&theme=onedark&hide_border=true" />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhafidz&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Nurhafidz&theme=react-dark&hide_border=true&area=true)
+![snake gif](https://raw.githubusercontent.com/Nurhafidz/Nurhafidz/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
